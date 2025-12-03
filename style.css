@@ -1,0 +1,25 @@
+body{
+    text-align: center;
+    color: cornflowerblue;
+}
+#s{
+    background-image:url("loop\ galaxy\ GIF.gif");
+    background-size: cover;
+    color: cornflowerblue;
+    margin:none;
+    padding: 20px;
+    text-shadow: 5px 5px 0px black;
+    font-weight:800;
+}
+button{
+    padding: 5px 10px 5px 10px;
+    color: cornflowerblue;
+    font-weight: bold;
+    border:none;
+}
+span{
+    border-bottom: 4px solid white;
+}
+.logo{
+    width: 150px;
+}
